@@ -11,7 +11,7 @@
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                 <div class="slide__content">
-                  <h2 class="slide__title color-white">Generic Medicine &<br> Our Retailers</h2>
+                  <h2 class="slide__title color-white">SARVESH KI DUKAN <br> SABLKE SATH</h2>
                   <p class="slide__desc color-white">The health and well-being of our patients and their health care
                     team will
                     always be our priority, so we follow the best practices for cleanliness.</p>
