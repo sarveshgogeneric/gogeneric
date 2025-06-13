@@ -12,7 +12,7 @@
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
                 <div class="slide__content">
                   <h2 class="slide__title color-white">Generic Medicine &<br> Our Retailers</h2>
-                  <p class="slide__desc color-white">The health and well-being of our patients and their health care
+                  <p class="slide__desc color-white">  My name The health and well-being of our patients and their health care
                     team will
                     always be our priority, so we follow the best practices for cleanliness.</p>
                   <div class="d-flex flex-wrap justify-content-center align-items-center">
